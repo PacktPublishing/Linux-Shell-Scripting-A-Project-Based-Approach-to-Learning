@@ -28,3 +28,7 @@ NA
 
 * [Digital Forensics Using Kali Linux [Video]](https://www.packtpub.com/networking-and-servers/digital-forensics-using-kali-linux-video?utm_source=github&utm_medium=repository&utm_campaign=9781838829384)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789800906">https://packt.link/free-ebook/9781789800906 </a> </p>
